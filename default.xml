@@ -3,7 +3,7 @@
   <remote  name="aosp" fetch="https://android.googlesource.com/" review="https://android-review.googlesource.com/"/>
   <remote  name="grapheneos"
     fetch="https://github.com/GrapheneOS/"
-    revision="refs/heads/17" />
+    revision="refs/tags/2026111300" />
 
   <default revision="main-kernel-2026" remote="aosp" sync-j="4"/>
 
